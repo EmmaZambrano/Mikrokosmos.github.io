@@ -1,20 +1,18 @@
 ---
-title: Clientes
-image_view: true
+title: Galery
 ---
-<h1>Servicios</h1>
+<div class="editable">
+	<h1>Clientes</h1>
 
+	<p>Me llamo Emma Zambrano, bienvenidos a mi peluquería canina.</p>
 
+	<p>La peluquería canina tiene como finalidad llevar a cabo todas las tareas de cuidados de peluquería y estéticos a los perros.</p>
+	
+	<p>Contamos con personal capacitado para hacer frente a perros con características y comportamientos muy diferentes.</p>
+	
+	<p>Entre las principales funciones de la peluquería canina destacamos el arreglo, corte y mantenimiento del pelaje, con todas las actividades que implican.</p>
+	
+	<p>Para nosotros es muy importante escuchar las necesidades, inquietudes, y sugerencias de la familia de nuestro principal cliente que es tu hijo-mascota.</p>
+	
+</div>
 
-{% if page.image_view %}
-	{% for category in site.categories %}
-		<h2>{{ category[0] }}</h2>
-		<div class="recipes">
-			{% for recipe in category[1] %}
-				<div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">
-					<a href="{{ site.baseurl }}{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
-				</div>
-			{% endfor %}
-		</div>
-	{% endfor %}
-{% endif %}
