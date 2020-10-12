@@ -9,7 +9,7 @@ newsletter_action:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /perro.jpn
+logo: /perro.jpg
 description: 
 author:
   name: Emma Zambrano
