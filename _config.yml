@@ -11,9 +11,9 @@ disqus_shortname:
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /perro.jpg
 description:  El mejor lugar para tus mascotas.
-  autor:
-  name: 
-  email: 
+ author:
+  name: Emma Zambrano
+  email: emma.zambranoesp@ug.edu.ec
   twitter: # twitter username without the @ symbol
 social:
   name: "Mikrokosmos"
