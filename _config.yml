@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Peluqueria canina "Mikrokosmos"
+title: Peluquería canina "Mikrokosmos"
 url: 
 baseurl:
 google_analytics_key:
@@ -11,9 +11,8 @@ disqus_shortname:
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description:  El mejor lugar para tus mascotas.
-author:
-  name:
-  email:
+  name: Emma Zambrano
+  email:emma.zambranoesp@ug.edu.ec
   twitter: # twitter username without the @ symbol
 social:
   name: "Mikrokosmos"
@@ -81,7 +80,3 @@ social_icons:
   - Twitter
   - YouTube
 
-_options:
-  author_image:
-    width: 400
-    height: 400
