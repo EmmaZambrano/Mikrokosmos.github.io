@@ -1,5 +1,5 @@
 ---
-date: 2020-05-07
+date: 2020-10-07
 title: Baño cosmético
 categories:
   - Baño
