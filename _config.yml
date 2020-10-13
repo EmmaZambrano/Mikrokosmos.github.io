@@ -2,7 +2,7 @@
 # Site
 
 title: Peluquería canina "MIKROKOSMOS"
-url: 
+url: "https://outlook.office.com/mail/"
 baseurl:
 google_analytics_key:
 newsletter_action:
@@ -16,8 +16,8 @@ author:
   email: emma.zambranoesp@ug.edu.ec
   twitter: # twitter username without the @ symbol
 social:
-  name: 
-  links:
+  name: "MIKROKOSMOS"
+  links: 
     
 
 # -----
@@ -74,7 +74,14 @@ exclude:
 # CloudCannon
 
 social_icons:
+  - Facebook
+  - Google Plus
+  - Instagram
   - LinkedIn
   - Pinterest
+  - Tumblr
+  - Twitter
+  - YouTube
+  - RSS
   
 
